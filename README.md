@@ -1,0 +1,4 @@
+- 👋 Hi, I’m MAJJARI SUMAN. <br />
+- 👀 Playing Cricket, Listening Music, reading Books are my Hobbies.  <br />
+- 🌱 I’m Studying B-Tech 3rd year at IIITDM KANCHEEPURAM. <br />
+- 💞️ I’m very Passionate about Technology. <br />
