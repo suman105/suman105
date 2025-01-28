@@ -22,7 +22,7 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
 
 ### 📫 How to Reach Me  
 - 📧 Email: [majjarisuman77@gmail.com](mailto:majjarisuman77@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sumanmajjari](https://linkedin.com/in/sumanmajjari)  
+- 💼 LinkedIn: [linkedin.com/in/suman-majjari/](https://www.linkedin.com/in/suman-majjari/)  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 💡 Fun Facts  
