@@ -33,8 +33,3 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
 - 🌟 Secured the prestigious **Foundation for Excellence (FFE) scholarship** for all four years of my Bachelor's as a top student in the country.  
 
 Let’s connect and build something awesome! 🚀  
-
-## 🚀 Competitive Programming Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sumanmajjari?theme=dark&font=Karma&ext=contest)
-
-[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/sumanmajjari/)
