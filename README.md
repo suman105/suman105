@@ -34,25 +34,3 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
 
 Let’s connect and build something awesome! 🚀  
 
-
-<style>
-  .typing {
-    display: inline-block;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
-</style>
