@@ -35,10 +35,17 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
   <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div> -->
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://leetcard.jacoblin.cool/SumanMajjari?theme=dark&font=Roboto" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
+### 🧑‍💻 Coding Activity  
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/SumanMajjari?theme=dark&font=Roboto" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 
 ### 💡 Fun Facts  
