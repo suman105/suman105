@@ -1,4 +1,4 @@
-# Hi there 👋, <span class="typing">I'm Suman Majjari!</span>  
+# Hi there 👋, I'm Suman Majjari!
 
 ### 🌟 About Me  
 I’m a **Full Stack Developer** 👨‍💻 with expertise in:  
@@ -23,9 +23,16 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
 ### 📫 How to Reach Me  
 - 📧 Email: [majjarisuman77@gmail.com](mailto:majjarisuman77@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/suman-majjari/](https://www.linkedin.com/in/suman-majjari/)  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 💡 Fun Facts  
+- 🏅 **Ranked 1st** at Texas Tech University by solving **500+ problems on GeeksforGeeks.**  
+- 🎖️ Honored with the **Computer Science Department Scholarship** for outstanding academic achievements and excellence.  
+- 🎓 Awarded the **Graduate School Competitive Scholarship** for my first year of Master's at Texas Tech University.  
+- 🏆 Received a **Certificate of Excellence in Design and Innovation** for an exceptional academic project.  
+- 🌟 Secured the prestigious **Foundation for Excellence (FFE) scholarship** for all four years of my Bachelor's as a top student in the country.  
 
 ### 🧑‍💻 Coding Activity  
+Here’s a snapshot of my coding progress and contributions:  
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -36,14 +43,6 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
       <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
-
-
-### 💡 Fun Facts  
-- 🏅 **Ranked 1st** at Texas Tech University by solving **500+ problems on GeeksforGeeks.**  
-- 🎖️ Honored with the **Computer Science Department Scholarship** for outstanding academic achievements and excellence.  
-- 🎓 Awarded the **Graduate School Competitive Scholarship** for my first year of Master's at Texas Tech University.  
-- 🏆 Received a **Certificate of Excellence in Design and Innovation** for an exceptional academic project.  
-- 🌟 Secured the prestigious **Foundation for Excellence (FFE) scholarship** for all four years of my Bachelor's as a top student in the country.  
+</table>
 
 Let’s connect and build something awesome! 🚀  
-
