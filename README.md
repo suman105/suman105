@@ -26,14 +26,6 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🧑‍💻 Coding Activity  
-<!-- #### LeetCode Progress  
-![LeetCode Stats](https://leetcard.jacoblin.cool/SumanMajjari?theme=dark&font=Roboto)
-
-#### GitHub Activity  
-<div style="display: flex; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=suman105&theme=dark&hide_border=true&token=PAS" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div> -->
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -44,6 +36,7 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
       <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
+
 
 ### 💡 Fun Facts  
 - 🏅 **Ranked 1st** at Texas Tech University by solving **500+ problems on GeeksforGeeks.**  
