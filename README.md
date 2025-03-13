@@ -35,18 +35,15 @@ I’m a **Full Stack Developer** 👨‍💻 with expertise in:
   <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div> -->
 
-### 🧑‍💻 Coding Activity  
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none; padding-right: 20px;">
       <img src="https://leetcard.jacoblin.cool/SumanMajjari?theme=dark&font=Roboto" alt="LeetCode Stats" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=suman105&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
-</table>
-
 
 ### 💡 Fun Facts  
 - 🏅 **Ranked 1st** at Texas Tech University by solving **500+ problems on GeeksforGeeks.**  
