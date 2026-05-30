@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Suman Majjari!
 
 ### 🌟 About Me  
-I’m a **Software Development Engineer** with 5+ years of experience designing and building scalable, fault-tolerant distributed systems and cloud-native microservices. I specialize in: 
+I’m a **Software Development Engineer** with 4+ years of experience designing and building scalable, fault-tolerant distributed systems and cloud-native microservices. I specialize in: 
 - 🧑‍💻 **Data Structures & Algorithms (DSA)**  
 - **🧑‍💻 Distributed Systems & Microservices** (Java, Spring Boot)
 - ☁️ **Cloud Infrastructure & DevOps** (AWS, CI/CD, Docker, Kubernetes)
