@@ -14,7 +14,6 @@ I’m a **Software Development Engineer** with 4+ years of experience designing 
 
 ### 📫 How to Reach Me  
 - 📧 Email: [majjarisuman77@gmail.com](mailto:majjarisuman77@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/suman-majjari/](https://www.linkedin.com/in/suman-majjari/)  
 
 ### 💡 Fun Facts  
 - 🏅 **Ranked 1st** at Texas Tech University by solving **500+ problems on GeeksforGeeks.**  
